@@ -1,6 +1,6 @@
 # 🏄‍♂️ Philip Alexander Jach 
 
-**`Software Engineer (Developer/Filmmaker/Creator)`**
+**`Software Engineer (Germany/Ireland/Switzerland)`**
 
 As a young student in my final semester at University, I am constantly learning and improving on my skills, but already have some technical
 and professional experience under my belt from an internship in Ireland, tutoring, and 5+ years of developing side projects and open source
