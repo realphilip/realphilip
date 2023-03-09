@@ -1,10 +1,9 @@
 # 🏄‍♂️ Philip Alexander Jach 
 
-**`Software Engineer (Germany/Ireland/Switzerland)`**
+**`Software Engineer`**
 
-As a young student in my final semester at University, I am constantly learning and improving on my skills, but already have some technical
-and professional experience under my belt from an internship in Ireland, tutoring, and 5+ years of developing side projects and open source
-applications independently. All coding projects are designed and programmed from the ground up.
+As a Junior Developer, I am constantly learning and improving on my skills, but already have a year of technical
+and professional experience (in Berlin and abroad) under my belt bringing complex web-applications into production, managing databases and building mobile apps, as well as freelance web-development and teaching-tutoring. I am particularly interested in the finance/fintech and consulting sectors. Most of my work isnt public, but feel free to get a glimpse.  All coding projects are designed and programmed from the ground up. Check out my website!
 
 ---
 
